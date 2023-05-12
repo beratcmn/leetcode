@@ -1,1 +1,1 @@
-from solutions import merge_sorted_array
+from solutions import *
