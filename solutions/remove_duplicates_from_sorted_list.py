@@ -1,4 +1,3 @@
-# Completed
 # Runtime 57 ms Beats 12.90%
 # Memory 16.4 MB Beats 7.54%
 

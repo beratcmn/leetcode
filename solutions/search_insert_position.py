@@ -1,4 +1,3 @@
-# Solved
 # Runtime 58 ms Beats 29.37%
 # Memory 17.1 MB Beats 19.1%
 

@@ -1,4 +1,3 @@
-# Completed
 # Runtime: 55 ms, faster than 27.56% of Python3 online submissions for Longest Common Prefix.
 # Memory Usage: 13.9 MB, less than 99.51% of Python3 online submissions for Longest Common Prefix.
 

@@ -1,7 +1,5 @@
-# Completed
 # Runtime 51 ms Beats 20.67%
 # Memory 16.4 MB Beats 10.49%
-
 
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:

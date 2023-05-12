@@ -1,4 +1,3 @@
-# Completed
 # Runtime: 36 ms, faster than 53.76% of Python3 online submissions for Valid Parentheses.
 # Memory Usage: 22 MB, less than 6.91% of Python3 online submissions for Valid Parentheses.
 

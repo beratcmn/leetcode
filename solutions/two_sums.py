@@ -1,4 +1,3 @@
-# Completed
 # Runtime: 6770 ms, faster than 6.67 % of Python3 online submissions for Two Sum.
 # Memory Usage: 15 MB, less than 67.33 % of Python3 online submissions for Two Sum.
 
