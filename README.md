@@ -25,3 +25,4 @@
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                   | [Python](./solutions/merge_sorted_array.py)                  | Easy       |
 | 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)             | [Python](./solutions/binary_tree_inorder_traversal.py)       | Easy       |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/)                                                     | [Python](./solutions/same_tree.py)                           | Easy       |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [Python](./solutions/symmetric_tree.py)                      | Easy       |
