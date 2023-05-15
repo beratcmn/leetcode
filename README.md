@@ -23,3 +23,4 @@
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                         | [Python](./solutions/climbing_stairs.py)                     | Easy       |
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)   | [Python](./solutions/remove_duplicates_from_sorted_list.py)  | Easy       |
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                   | [Python](./solutions/merge_sorted_array.py)                  | Easy       |
+| 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)             | [Python](./solutions/binary_tree_inorder_traversal.py)       | Easy       |
