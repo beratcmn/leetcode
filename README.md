@@ -8,6 +8,7 @@
 | --- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [Python](./solutions/two_sums.py)                            | Easy       |
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                         | [Python](./solutions/add_two_numbers.py)                     | Medium     |
+| 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                         | [Python](./solutions/reverse_integer.py)                     | Medium     |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                     | [Python](./solutions/palindrome_number.py)                   | Easy       |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                       | [Python](./solutions/roman_to_integer.py)                    | Easy       |
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                             | [Python](./solutions/longest_common_prefix.py)               | Easy       |
