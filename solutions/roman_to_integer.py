@@ -1,3 +1,6 @@
+# Runtime 87 ms Beats 5.12%
+# Memory 13.8 MB Beats 75.17%
+
 class Solution:
     def romanToInt(self, s: str) -> int:
         pairs = {
