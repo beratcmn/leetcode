@@ -1,12 +1,8 @@
-from solutions.merge_sorted_array import Solution as merge_sorted_array
+from solutions.string_to_integer_atoi import Solution as string_to_integer_atoi
 
-solution = merge_sorted_array()
+solution = string_to_integer_atoi()
 
-result = solution.merge(
-    nums1=[1,2,3,0,0,0], 
-    m=3,
-    nums2=[2,5,6],
-    n=3
-    )
+# result = solution.myAtoi("4193w")
+result = solution.myAtoi("words and 987")
 
 print(result)
