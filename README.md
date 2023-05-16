@@ -10,6 +10,7 @@
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | [Python](./solutions/add_two_numbers.py)                                | Medium     |
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./solutions/longest_substring_without_repeating_characters.py) | Medium     |
 | 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       | [Python](./solutions/median_of_two_sorted_arrays.py)                    | Hard       |
+| 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | [Python](./solutions/longest_palindromic_substring.py)                  | Medium     |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               | [Python](./solutions/reverse_integer.py)                                | Medium     |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | [Python](./solutions/palindrome_number.py)                              | Easy       |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | [Python](./solutions/roman_to_integer.py)                               | Easy       |
