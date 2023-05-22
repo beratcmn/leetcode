@@ -1,3 +1,6 @@
+# Runtime 78 ms Beats 6.12%
+# Memory 16.4 MB Beats 17.69%
+
 class Solution:
     def intToRoman(self, num: int) -> str:
         values = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1]
