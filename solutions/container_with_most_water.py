@@ -1,25 +1,22 @@
+# Runtime 750 ms Beats 51.44%
+# Memory 28.5 MB Beats 43.62%
+
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        if len(height) > 10**5:
-            return
+        n = len(height)
+        left = 0
+        right = n - 1
+        max_area = 0
 
-        if len(height) == 2:
-            return min(height)
+        while left < right:
+            h = min(height[left], height[right])
+            w = right - left
+            area = h * w
+            max_area = max(max_area, area)
 
-        result = 0
+            if height[left] < height[right]:
+                left += 1
+            else:
+                right -= 1
 
-        n1 = 0
-        n2 = 1
-        for a in height:
-            for b in height[height.index(a)+1:]:
-                if a > 10**4 or b > 10**4:
-                    return
-                x = n2 - n1
-                y = min([a, b])
-                r = x * y
-                result = r if r > result else result
-                n2 += 1
-            n1 += 1
-            n2 = n1 + 1
-
-        return result
+        return max_area
