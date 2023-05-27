@@ -21,6 +21,7 @@
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | [Python](./solutions/roman_to_integer.py)                               | Easy       |
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | [Python](./solutions/longest_common_prefix.py)                          | Easy       |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | [Python](./solutions/three_sum.py)                                      | Medium     |
+| 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                     | [Python](./solutions/three_sum_closest.py)                              | Medium     |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [Python](./solutions/valid_parentheses.py)                              | Easy       |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | [Python](./solutions/merge_two_sorted_lists.py)                         | Easy       |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       | [Python](./solutions/remove_duplicates_from_sorted_array.py)            | Easy       |
