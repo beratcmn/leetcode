@@ -1,3 +1,5 @@
+![LeetCode Logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)
+
 # My LeetCode Solutions
 
 ### These are the first solutions I came up with. I'll try to add new solutions and improve the already existing solutions.
