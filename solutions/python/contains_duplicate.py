@@ -1,15 +1,13 @@
-# Runtime 618 ms Beats 5.15%
-# Memory 28.4 MB Beats 92.53%
+# Runtime 537 ms Beats 89.66%
+# Memory 30.9 MB Beats 51.59%
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        nums.sort()
+        seen = set()
 
-        duplicates = []
-        for i, n in enumerate(nums[0:len(nums)-1]):
-            if len(duplicates) > 0:
-                break
-            if n == nums[i+1]:
-                duplicates.append(n)
+        for n in nums:
+            if n in seen:
+                return True
+            seen.add(n)
 
-        return True if len(duplicates) > 0 else False
+        return False
